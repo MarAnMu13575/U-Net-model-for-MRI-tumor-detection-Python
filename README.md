@@ -28,7 +28,7 @@ Before running the project, ensure you have the following installed:
 - PyTorch
 - NumPy
 - Matplotlib
-- Other necessary libraries (see `requirements.txt`)
+- Other necessary libraries 
 
 ## Results
 
