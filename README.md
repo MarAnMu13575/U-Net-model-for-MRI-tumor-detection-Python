@@ -4,11 +4,4 @@ With the advancement of technology, computer vision has found numerous applicati
 
 Brain tumor segmentation <- U-Net model
 
-# Dataset:
-- Kaggle Public Brain Tumor Segmentation dataset [Tomar, 2023]
-
-# Metrics: 
-- IoU: Intersection over union [0 to 1]
-- Loss: Train vs Validation loss
-
 ![image](https://github.com/MarAnMu13575/U-Net-model-for-MRI-tumor-detection/assets/13788304/a3fa2e2a-f300-4f82-91fe-ca2d84db3c6f)
