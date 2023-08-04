@@ -1,7 +1,5 @@
 # U-Net Model for Brain Tumor Segmentation
 
-![Brain Tumor Segmentation](https://example.com/path/to/brain_tumor_image.jpg)
-
 ## Introduction
 
 With the continuous advancement of technology, computer vision has found widespread applications in various fields, including medicine. In the medical domain, computer vision techniques have proven to be invaluable for the detection of various conditions, such as brain tumors. This project aims to review the existing literature and implement different approaches, including semantic segmentation, to detect different types of MRI brain tumor images using PyTorch.
